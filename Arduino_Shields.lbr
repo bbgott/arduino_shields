@@ -1179,43 +1179,43 @@
 <deviceset name="ARDUINO_UNO_SHIELD">
 <description>Arduino Uno R3 Shield.</description>
 <gates>
-<gate name="G$1" symbol="ARDUINO_UNO_SHEILD" x="-15.24" y="-20.32"/>
+<gate name="A" symbol="ARDUINO_UNO_SHEILD" x="-15.24" y="-20.32"/>
 </gates>
 <devices>
 <device name="_FULL" package="FULL">
 <connects>
-<connect gate="G$1" pin="12" pad="20"/>
-<connect gate="G$1" pin="13" pad="19"/>
-<connect gate="G$1" pin="2" pad="30"/>
-<connect gate="G$1" pin="3.3V" pad="4"/>
-<connect gate="G$1" pin="4" pad="28"/>
-<connect gate="G$1" pin="5V" pad="5"/>
-<connect gate="G$1" pin="7" pad="25"/>
-<connect gate="G$1" pin="8" pad="24"/>
-<connect gate="G$1" pin="A0" pad="9"/>
-<connect gate="G$1" pin="A1" pad="10"/>
-<connect gate="G$1" pin="A2" pad="11"/>
-<connect gate="G$1" pin="A3" pad="12"/>
-<connect gate="G$1" pin="A4" pad="13"/>
-<connect gate="G$1" pin="A5" pad="14"/>
-<connect gate="G$1" pin="AREF" pad="17"/>
-<connect gate="G$1" pin="GND@0" pad="6"/>
-<connect gate="G$1" pin="GND@1" pad="7"/>
-<connect gate="G$1" pin="GND@2" pad="18"/>
-<connect gate="G$1" pin="IOREF" pad="2"/>
-<connect gate="G$1" pin="NC" pad="1"/>
-<connect gate="G$1" pin="RESET" pad="3"/>
-<connect gate="G$1" pin="RX_0" pad="32"/>
-<connect gate="G$1" pin="SCL" pad="15"/>
-<connect gate="G$1" pin="SDA" pad="16"/>
-<connect gate="G$1" pin="TX_1" pad="31"/>
-<connect gate="G$1" pin="VIN" pad="8"/>
-<connect gate="G$1" pin="~10" pad="22"/>
-<connect gate="G$1" pin="~11" pad="21"/>
-<connect gate="G$1" pin="~3" pad="29"/>
-<connect gate="G$1" pin="~5" pad="27"/>
-<connect gate="G$1" pin="~6" pad="26"/>
-<connect gate="G$1" pin="~9" pad="23"/>
+<connect gate="A" pin="12" pad="20"/>
+<connect gate="A" pin="13" pad="19"/>
+<connect gate="A" pin="2" pad="30"/>
+<connect gate="A" pin="3.3V" pad="4"/>
+<connect gate="A" pin="4" pad="28"/>
+<connect gate="A" pin="5V" pad="5"/>
+<connect gate="A" pin="7" pad="25"/>
+<connect gate="A" pin="8" pad="24"/>
+<connect gate="A" pin="A0" pad="9"/>
+<connect gate="A" pin="A1" pad="10"/>
+<connect gate="A" pin="A2" pad="11"/>
+<connect gate="A" pin="A3" pad="12"/>
+<connect gate="A" pin="A4" pad="13"/>
+<connect gate="A" pin="A5" pad="14"/>
+<connect gate="A" pin="AREF" pad="17"/>
+<connect gate="A" pin="GND@0" pad="6"/>
+<connect gate="A" pin="GND@1" pad="7"/>
+<connect gate="A" pin="GND@2" pad="18"/>
+<connect gate="A" pin="IOREF" pad="2"/>
+<connect gate="A" pin="NC" pad="1"/>
+<connect gate="A" pin="RESET" pad="3"/>
+<connect gate="A" pin="RX_0" pad="32"/>
+<connect gate="A" pin="SCL" pad="15"/>
+<connect gate="A" pin="SDA" pad="16"/>
+<connect gate="A" pin="TX_1" pad="31"/>
+<connect gate="A" pin="VIN" pad="8"/>
+<connect gate="A" pin="~10" pad="22"/>
+<connect gate="A" pin="~11" pad="21"/>
+<connect gate="A" pin="~3" pad="29"/>
+<connect gate="A" pin="~5" pad="27"/>
+<connect gate="A" pin="~6" pad="26"/>
+<connect gate="A" pin="~9" pad="23"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -1223,38 +1223,38 @@
 </device>
 <device name="_PADS_ONLY" package="PADS_ONLY">
 <connects>
-<connect gate="G$1" pin="12" pad="20"/>
-<connect gate="G$1" pin="13" pad="19"/>
-<connect gate="G$1" pin="2" pad="30"/>
-<connect gate="G$1" pin="3.3V" pad="4"/>
-<connect gate="G$1" pin="4" pad="28"/>
-<connect gate="G$1" pin="5V" pad="5"/>
-<connect gate="G$1" pin="7" pad="25"/>
-<connect gate="G$1" pin="8" pad="24"/>
-<connect gate="G$1" pin="A0" pad="9"/>
-<connect gate="G$1" pin="A1" pad="10"/>
-<connect gate="G$1" pin="A2" pad="11"/>
-<connect gate="G$1" pin="A3" pad="12"/>
-<connect gate="G$1" pin="A4" pad="13"/>
-<connect gate="G$1" pin="A5" pad="14"/>
-<connect gate="G$1" pin="AREF" pad="17"/>
-<connect gate="G$1" pin="GND@0" pad="6"/>
-<connect gate="G$1" pin="GND@1" pad="7"/>
-<connect gate="G$1" pin="GND@2" pad="18"/>
-<connect gate="G$1" pin="IOREF" pad="2"/>
-<connect gate="G$1" pin="NC" pad="1"/>
-<connect gate="G$1" pin="RESET" pad="3"/>
-<connect gate="G$1" pin="RX_0" pad="32"/>
-<connect gate="G$1" pin="SCL" pad="15"/>
-<connect gate="G$1" pin="SDA" pad="16"/>
-<connect gate="G$1" pin="TX_1" pad="31"/>
-<connect gate="G$1" pin="VIN" pad="8"/>
-<connect gate="G$1" pin="~10" pad="22"/>
-<connect gate="G$1" pin="~11" pad="21"/>
-<connect gate="G$1" pin="~3" pad="29"/>
-<connect gate="G$1" pin="~5" pad="27"/>
-<connect gate="G$1" pin="~6" pad="26"/>
-<connect gate="G$1" pin="~9" pad="23"/>
+<connect gate="A" pin="12" pad="20"/>
+<connect gate="A" pin="13" pad="19"/>
+<connect gate="A" pin="2" pad="30"/>
+<connect gate="A" pin="3.3V" pad="4"/>
+<connect gate="A" pin="4" pad="28"/>
+<connect gate="A" pin="5V" pad="5"/>
+<connect gate="A" pin="7" pad="25"/>
+<connect gate="A" pin="8" pad="24"/>
+<connect gate="A" pin="A0" pad="9"/>
+<connect gate="A" pin="A1" pad="10"/>
+<connect gate="A" pin="A2" pad="11"/>
+<connect gate="A" pin="A3" pad="12"/>
+<connect gate="A" pin="A4" pad="13"/>
+<connect gate="A" pin="A5" pad="14"/>
+<connect gate="A" pin="AREF" pad="17"/>
+<connect gate="A" pin="GND@0" pad="6"/>
+<connect gate="A" pin="GND@1" pad="7"/>
+<connect gate="A" pin="GND@2" pad="18"/>
+<connect gate="A" pin="IOREF" pad="2"/>
+<connect gate="A" pin="NC" pad="1"/>
+<connect gate="A" pin="RESET" pad="3"/>
+<connect gate="A" pin="RX_0" pad="32"/>
+<connect gate="A" pin="SCL" pad="15"/>
+<connect gate="A" pin="SDA" pad="16"/>
+<connect gate="A" pin="TX_1" pad="31"/>
+<connect gate="A" pin="VIN" pad="8"/>
+<connect gate="A" pin="~10" pad="22"/>
+<connect gate="A" pin="~11" pad="21"/>
+<connect gate="A" pin="~3" pad="29"/>
+<connect gate="A" pin="~5" pad="27"/>
+<connect gate="A" pin="~6" pad="26"/>
+<connect gate="A" pin="~9" pad="23"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -1262,38 +1262,38 @@
 </device>
 <device name="_PADS_HOLES" package="PADS_HOLES">
 <connects>
-<connect gate="G$1" pin="12" pad="20"/>
-<connect gate="G$1" pin="13" pad="19"/>
-<connect gate="G$1" pin="2" pad="30"/>
-<connect gate="G$1" pin="3.3V" pad="4"/>
-<connect gate="G$1" pin="4" pad="28"/>
-<connect gate="G$1" pin="5V" pad="5"/>
-<connect gate="G$1" pin="7" pad="25"/>
-<connect gate="G$1" pin="8" pad="24"/>
-<connect gate="G$1" pin="A0" pad="9"/>
-<connect gate="G$1" pin="A1" pad="10"/>
-<connect gate="G$1" pin="A2" pad="11"/>
-<connect gate="G$1" pin="A3" pad="12"/>
-<connect gate="G$1" pin="A4" pad="13"/>
-<connect gate="G$1" pin="A5" pad="14"/>
-<connect gate="G$1" pin="AREF" pad="17"/>
-<connect gate="G$1" pin="GND@0" pad="6"/>
-<connect gate="G$1" pin="GND@1" pad="7"/>
-<connect gate="G$1" pin="GND@2" pad="18"/>
-<connect gate="G$1" pin="IOREF" pad="2"/>
-<connect gate="G$1" pin="NC" pad="1"/>
-<connect gate="G$1" pin="RESET" pad="3"/>
-<connect gate="G$1" pin="RX_0" pad="32"/>
-<connect gate="G$1" pin="SCL" pad="15"/>
-<connect gate="G$1" pin="SDA" pad="16"/>
-<connect gate="G$1" pin="TX_1" pad="31"/>
-<connect gate="G$1" pin="VIN" pad="8"/>
-<connect gate="G$1" pin="~10" pad="22"/>
-<connect gate="G$1" pin="~11" pad="21"/>
-<connect gate="G$1" pin="~3" pad="29"/>
-<connect gate="G$1" pin="~5" pad="27"/>
-<connect gate="G$1" pin="~6" pad="26"/>
-<connect gate="G$1" pin="~9" pad="23"/>
+<connect gate="A" pin="12" pad="20"/>
+<connect gate="A" pin="13" pad="19"/>
+<connect gate="A" pin="2" pad="30"/>
+<connect gate="A" pin="3.3V" pad="4"/>
+<connect gate="A" pin="4" pad="28"/>
+<connect gate="A" pin="5V" pad="5"/>
+<connect gate="A" pin="7" pad="25"/>
+<connect gate="A" pin="8" pad="24"/>
+<connect gate="A" pin="A0" pad="9"/>
+<connect gate="A" pin="A1" pad="10"/>
+<connect gate="A" pin="A2" pad="11"/>
+<connect gate="A" pin="A3" pad="12"/>
+<connect gate="A" pin="A4" pad="13"/>
+<connect gate="A" pin="A5" pad="14"/>
+<connect gate="A" pin="AREF" pad="17"/>
+<connect gate="A" pin="GND@0" pad="6"/>
+<connect gate="A" pin="GND@1" pad="7"/>
+<connect gate="A" pin="GND@2" pad="18"/>
+<connect gate="A" pin="IOREF" pad="2"/>
+<connect gate="A" pin="NC" pad="1"/>
+<connect gate="A" pin="RESET" pad="3"/>
+<connect gate="A" pin="RX_0" pad="32"/>
+<connect gate="A" pin="SCL" pad="15"/>
+<connect gate="A" pin="SDA" pad="16"/>
+<connect gate="A" pin="TX_1" pad="31"/>
+<connect gate="A" pin="VIN" pad="8"/>
+<connect gate="A" pin="~10" pad="22"/>
+<connect gate="A" pin="~11" pad="21"/>
+<connect gate="A" pin="~3" pad="29"/>
+<connect gate="A" pin="~5" pad="27"/>
+<connect gate="A" pin="~6" pad="26"/>
+<connect gate="A" pin="~9" pad="23"/>
 </connects>
 <technologies>
 <technology name=""/>
